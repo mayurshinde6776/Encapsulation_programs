@@ -1,4 +1,4 @@
-//ATM program
+//Blueprint of ATM
 package Encapsulation;
 
  class ATM {
@@ -80,7 +80,7 @@ public double getBalance(long acno,int pin)
 		}
 
 //============================================================================
-
+// main class of ATM 
 public class ATMDriver {
 
 public static void main(String[] args)
